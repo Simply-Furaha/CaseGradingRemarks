@@ -1,4 +1,4 @@
-
+//To allow scanner function. Taking inputs from the user
 import java.util.Scanner;
 
 public class Main {
